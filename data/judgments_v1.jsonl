@@ -1,0 +1,35 @@
+{"id": "q001", "answerable": true, "correctness": 1, "groundedness": 1, "completeness": 1, "reason": "Ответ системы неверен, так как он утверждает отсутствие информации в контексте, хотя ответ на вопрос содержится в предоставленных материалах."}
+{"id": "q002", "answerable": false, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Система корректно указала отсутствие информации в контексте, что соответствует эталону."}
+{"id": "q003", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и корректно извлекает все пункты из контекста."}
+{"id": "q004", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и корректно извлекается из предоставленного контекста."}
+{"id": "q005", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и точно отражает информацию из контекста."}
+{"id": "q006", "answerable": true, "correctness": 2, "groundedness": 1, "completeness": 1, "reason": "Ответ системы неполный и содержит выдумку, так как упускает три паттерна из эталона (Singleton, Builder, Prototype) и ошибочно включает не-Gof паттерн Factory."}
+{"id": "q007", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и корректно извлекает информацию из предоставленного контекста."}
+{"id": "q008", "answerable": false, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Система корректно указала, что в предоставленном контексте нет информации о различиях между KMP и CMP."}
+{"id": "q009", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q010", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и корректно извлекает информацию из контекста."}
+{"id": "q011", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и содержит все примеры из контекста."}
+{"id": "q012", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ системы полностью совпадает с эталоном по набору паттернов и примерам, а все утверждения подтверждены контекстом."}
+{"id": "q013", "answerable": true, "correctness": 1, "groundedness": 5, "completeness": 1, "reason": "Ответ неверен, так как он отрицает наличие информации в контексте, хотя контекст содержит раздел про утечки памяти и способы их предотвращения."}
+{"id": "q014", "answerable": false, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Система корректно указала, что в предоставленном контексте нет информации о том, что такое Lambda."}
+{"id": "q015", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q016", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q017", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном по смыслу и подтверждается контекстом."}
+{"id": "q018", "answerable": false, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Система корректно указала, что в предоставленном контексте нет информации о значении и использовании ключевого слова 'it'."}
+{"id": "q019", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q020", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и корректно извлекается из контекста."}
+{"id": "q021", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q022", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q023", "answerable": true, "correctness": 1, "groundedness": 1, "completeness": 1, "reason": "Ответ системы неверен, так как он утверждает отсутствие информации в контексте, хотя ответ на вопрос содержится в разделе 'Правильное Объяснение' и таблице сравнения."}
+{"id": "q024", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q025", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном по смыслу и подтверждается контекстом."}
+{"id": "q026", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q027", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q028", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q029", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и корректно дополнен информацией из контекста."}
+{"id": "q030", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном по смыслу и точно воспроизводит список антипаттернов из контекста."}
+{"id": "q031", "answerable": false, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Система корректно указала отсутствие ответа в контексте, что совпадает с эталоном."}
+{"id": "q032", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q033", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и корректно извлекает все четыре пункта использования data class из контекста."}
+{"id": "q034", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и подтверждается контекстом."}
+{"id": "q035", "answerable": true, "correctness": 5, "groundedness": 5, "completeness": 5, "reason": "Ответ полностью совпадает с эталоном и корректно извлекает информацию из контекста."}
